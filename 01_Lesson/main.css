@@ -1,7 +1,16 @@
 html {
-    font-size: 22px
+    font-size: 22px;
 }
 body{
     background-color : black;
     color: white;
+}
+a {
+    color: aliceblue;
+}
+a:visited {
+    color : lightgrey;
+}
+a:hover, a:active {
+    color: #eee;
 }
